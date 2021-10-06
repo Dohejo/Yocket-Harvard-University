@@ -1,0 +1,66 @@
+package Yocket_University.NewProject;
+
+import java.io.IOException;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.Keys;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.support.ui.WebDriverWait;
+import org.testng.annotations.AfterMethod;
+import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.Test;
+
+import resourse.Screenshot;
+
+public class LogIn {
+	WebDriver driver;
+	By login = By.xpath("//div[@class='flex items-center justify-end space-x-3']");
+	By createOne= By.xpath("//div[@class='w-full']//p//small[contains(@class,'text-sm')]");
+	By firstname=By.xpath("//input[@id='first_name']");
+	By lastname=By.xpath("//input[@id='last_name']");
+	By primaryEmail=By.xpath("//input[@id='primary_email']");
+	By countryCode=By.xpath("//span[@class='vs__selected']");
+	By phoneNumber=By.xpath("//input[@id='phone']");
+	By bachelors=By.xpath("//div[@class='flex space-x-4']//p[contains(text(),'Bachelors')]");
+	By master=By.xpath("//div[@class='flex space-x-4']//p[contains(text(),'Masters')]");
+	By otp=By.xpath("//input[@name='otp']");
+	By submitButton=By.xpath("//button[@type='submit']");
+	
+	@BeforeMethod(alwaysRun = true)
+	public void initializeBrowser()
+	{	
+		System. setProperty("webdriver.chrome.driver", "D:\\chromedriver.exe");
+		// Initialize browser.
+		driver=new ChromeDriver();
+		driver.manage().window().maximize();
+		driver.get("https://yocket.in/");
+		
+	}
+	
+	@Test
+	public void signUp() throws IOException, InterruptedException {
+		waitForPageToLoad(driver);
+	   // driver.findElement(By.xpath("//form//input[@name='q']")).sendKeys("bgeoiavnl"+Keys.ENTER);
+		
+		Screenshot obj = new Screenshot(driver);
+		obj.takescreenshot("After opeing the Web-Link");
+		driver.findElement(login).click();
+		// to sign up 
+		waitForPageToLoad(driver);
+		driver.findElement(createOne).click();
+	}
+	
+	@AfterMethod(alwaysRun = true)
+	public void closeBroswer()
+	{
+		//driver.quit();
+	}
+	
+	public void waitForPageToLoad(WebDriver driver) {
+		WebDriverWait wait= new WebDriverWait(driver, 1000);
+		wait.until( d -> ((JavascriptExecutor) d).executeScript("return document.readyState").equals("complete"));
+	}
+}
+

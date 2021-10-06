@@ -89,3 +89,7 @@
 2021-10-06 10:43:50,281 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Eclipse\eclipse\Yocket harvard University\NewProject\src\main\resources
 2021-10-06 10:43:50,281 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-10-06 10:43:50,281 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Eclipse\eclipse\Yocket harvard University\NewProject\src\test\resources
+2021-10-06 11:30:00,856 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 11:30:00,856 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Eclipse\eclipse\Yocket harvard University\NewProject\src\main\resources
+2021-10-06 11:30:00,872 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 11:30:00,872 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Eclipse\eclipse\Yocket harvard University\NewProject\src\test\resources

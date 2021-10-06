@@ -1,0 +1,30 @@
+package Yocket_University.NewProject;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+
+public class LogIn {
+	WebDriver driver;
+	By login = By.xpath("//div[@class='flex items-center justify-end space-x-3']");
+	By phoneNumber=By.xpath("//input[@id='phone']");
+	By otp=By.xpath("//input[@name='otp']");
+	By submitButton=By.xpath("//button[@type='submit']");
+	
+	public LogIn(WebDriver driver) {
+		super();
+		this.driver = driver;
+	}
+	
+	public void loginFunction() {
+		
+		driver.get("https://yocket.in/");
+		driver.findElement(login);
+		driver.findElement(phoneNumber);
+		driver.findElement(submitButton);
+		
+		driver.findElement(otp);
+		driver.findElement(submitButton);
+		
+	}
+}
+
