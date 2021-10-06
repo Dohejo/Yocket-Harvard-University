@@ -1,0 +1,27 @@
+INDEX VERSION 1.131+D:\Eclipse\eclipse\Yocket harvard University\.metadata\.plugins\org.eclipse.jdt.core
+4286496754.index
+3719041472.index
+440469906.index
+542706912.index
+3946537892.index
+1171675405.index
+3355865908.index
+1153885644.index
+1414767474.index
+2078551452.index
+2665041471.index
+428025622.index
+2657438912.index
+815887375.index
+2423801865.index
+2595050210.index
+2107184401.index
+3796088859.index
+1475778928.index
+1230965877.index
+602430855.index
+3264690531.index
+9145631.index
+3192321772.index
+789344348.index
+2349186189.index

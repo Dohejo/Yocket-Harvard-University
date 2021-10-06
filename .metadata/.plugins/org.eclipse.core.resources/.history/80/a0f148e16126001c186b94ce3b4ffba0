@@ -1,0 +1,13 @@
+package Yocket_University.NewProject;
+
+/**
+ * Hello world!
+ *
+ */
+public class LogIn 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+    }
+}
