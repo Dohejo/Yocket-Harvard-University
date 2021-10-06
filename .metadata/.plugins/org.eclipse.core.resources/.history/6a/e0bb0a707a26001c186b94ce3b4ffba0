@@ -46,7 +46,7 @@ public class SignUp {
 	}
 	
 	public void waitForPageToLoad(WebDriver driver) {
-		WebDriverWait wait= new WebDriverWait(driver, 3000);
+		WebDriverWait wait= new WebDriverWait(driver, 1000);
 		wait.until( d -> ((JavascriptExecutor) d).executeScript("return document.readyState").equals("complete"));
 	}
 }
