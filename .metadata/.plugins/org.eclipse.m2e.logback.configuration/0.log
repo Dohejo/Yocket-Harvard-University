@@ -1,0 +1,91 @@
+2021-10-05 20:20:50,197 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-10-05 20:22:14,362 [Worker-10: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\Eclipse\eclipse\Yocket harvard University\NewProject\pom.xml
+2021-10-05 20:22:22,964 [Worker-10: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Yocket_University:NewProject:0.0.1-SNAPSHOT @ D:\Eclipse\eclipse\Yocket harvard University\NewProject\pom.xml.
+2021-10-05 20:22:24,700 [Worker-10: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /NewProject/src/main/java
+2021-10-05 20:22:24,723 [Worker-10: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /NewProject/src/test/java
+2021-10-05 20:22:25,101 [Worker-10: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 10 sec
+2021-10-05 20:22:28,821 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-05 20:22:28,822 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Eclipse\eclipse\Yocket harvard University\NewProject\src\main\resources
+2021-10-05 20:22:28,825 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-05 20:22:28,825 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Eclipse\eclipse\Yocket harvard University\NewProject\src\test\resources
+2021-10-05 20:22:39,581 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-05 20:22:39,581 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Eclipse\eclipse\Yocket harvard University\NewProject\src\main\resources
+2021-10-05 20:22:39,583 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-05 20:22:39,583 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Eclipse\eclipse\Yocket harvard University\NewProject\src\test\resources
+2021-10-06 10:22:15,345 [Worker-76: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Yocket_University:NewProject:0.0.1-SNAPSHOT @ D:\Eclipse\eclipse\Yocket harvard University\NewProject\pom.xml.
+2021-10-06 10:22:17,059 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:22:17,059 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Eclipse\eclipse\Yocket harvard University\NewProject\src\main\resources
+2021-10-06 10:22:17,059 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:22:17,059 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Eclipse\eclipse\Yocket harvard University\NewProject\src\test\resources
+2021-10-06 10:22:19,794 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:22:19,794 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Eclipse\eclipse\Yocket harvard University\NewProject\src\main\resources
+2021-10-06 10:22:19,794 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:22:19,794 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Eclipse\eclipse\Yocket harvard University\NewProject\src\test\resources
+2021-10-06 10:23:01,789 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:23:01,789 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Eclipse\eclipse\Yocket harvard University\NewProject\src\main\resources
+2021-10-06 10:23:01,789 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:23:01,789 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Eclipse\eclipse\Yocket harvard University\NewProject\src\test\resources
+2021-10-06 10:27:02,959 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:27:02,959 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Eclipse\eclipse\Yocket harvard University\NewProject\src\main\resources
+2021-10-06 10:27:02,959 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:27:02,959 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Eclipse\eclipse\Yocket harvard University\NewProject\src\test\resources
+2021-10-06 10:27:17,641 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:27:17,641 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Eclipse\eclipse\Yocket harvard University\NewProject\src\main\resources
+2021-10-06 10:27:17,641 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:27:17,641 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Eclipse\eclipse\Yocket harvard University\NewProject\src\test\resources
+2021-10-06 10:32:44,556 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:32:44,556 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Eclipse\eclipse\Yocket harvard University\NewProject\src\main\resources
+2021-10-06 10:32:44,556 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:32:44,556 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Eclipse\eclipse\Yocket harvard University\NewProject\src\test\resources
+2021-10-06 10:36:01,981 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:36:01,981 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Eclipse\eclipse\Yocket harvard University\NewProject\src\main\resources
+2021-10-06 10:36:01,981 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:36:01,981 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Eclipse\eclipse\Yocket harvard University\NewProject\src\test\resources
+2021-10-06 10:36:29,899 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:36:29,899 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Eclipse\eclipse\Yocket harvard University\NewProject\src\main\resources
+2021-10-06 10:36:29,899 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:36:29,899 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Eclipse\eclipse\Yocket harvard University\NewProject\src\test\resources
+2021-10-06 10:37:52,194 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:37:52,194 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Eclipse\eclipse\Yocket harvard University\NewProject\src\main\resources
+2021-10-06 10:37:52,194 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:37:52,194 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Eclipse\eclipse\Yocket harvard University\NewProject\src\test\resources
+2021-10-06 10:40:50,225 [Worker-83: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Yocket_University:NewProject:0.0.1-SNAPSHOT @ D:\Eclipse\eclipse\Yocket harvard University\NewProject\pom.xml.
+2021-10-06 10:40:52,053 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-io/commons-io/2.6/commons-io-2.6.pom
+2021-10-06 10:40:52,444 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-io/commons-io/2.6/commons-io-2.6.pom
+2021-10-06 10:40:52,647 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/42/commons-parent-42.pom
+2021-10-06 10:40:53,100 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/42/commons-parent-42.pom
+2021-10-06 10:40:53,303 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/apache/18/apache-18.pom
+2021-10-06 10:40:53,506 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/apache/18/apache-18.pom
+2021-10-06 10:40:53,741 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-io/commons-io/2.6/commons-io-2.6.jar
+2021-10-06 10:40:54,381 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-io/commons-io/2.6/commons-io-2.6.jar
+2021-10-06 10:40:55,053 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:40:55,053 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Eclipse\eclipse\Yocket harvard University\NewProject\src\main\resources
+2021-10-06 10:40:55,053 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:40:55,053 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Eclipse\eclipse\Yocket harvard University\NewProject\src\test\resources
+2021-10-06 10:40:56,520 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:40:56,520 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Eclipse\eclipse\Yocket harvard University\NewProject\src\main\resources
+2021-10-06 10:40:56,520 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:40:56,520 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Eclipse\eclipse\Yocket harvard University\NewProject\src\test\resources
+2021-10-06 10:40:56,849 [Worker-84: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-io/commons-io/2.6/commons-io-2.6-sources.jar
+2021-10-06 10:40:57,799 [Worker-84: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-io/commons-io/2.6/commons-io-2.6-sources.jar
+2021-10-06 10:40:57,887 [Worker-84: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-io:commons-io:2.6
+2021-10-06 10:40:58,134 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:40:58,134 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Eclipse\eclipse\Yocket harvard University\NewProject\src\main\resources
+2021-10-06 10:40:58,134 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:40:58,134 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Eclipse\eclipse\Yocket harvard University\NewProject\src\test\resources
+2021-10-06 10:41:07,020 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:41:07,020 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Eclipse\eclipse\Yocket harvard University\NewProject\src\main\resources
+2021-10-06 10:41:07,020 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:41:07,020 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Eclipse\eclipse\Yocket harvard University\NewProject\src\test\resources
+2021-10-06 10:41:10,970 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:41:10,970 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Eclipse\eclipse\Yocket harvard University\NewProject\src\main\resources
+2021-10-06 10:41:10,970 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:41:10,970 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Eclipse\eclipse\Yocket harvard University\NewProject\src\test\resources
+2021-10-06 10:41:57,765 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:41:57,765 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Eclipse\eclipse\Yocket harvard University\NewProject\src\main\resources
+2021-10-06 10:41:57,765 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:41:57,765 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Eclipse\eclipse\Yocket harvard University\NewProject\src\test\resources
+2021-10-06 10:43:50,281 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:43:50,281 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Eclipse\eclipse\Yocket harvard University\NewProject\src\main\resources
+2021-10-06 10:43:50,281 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-06 10:43:50,281 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Eclipse\eclipse\Yocket harvard University\NewProject\src\test\resources

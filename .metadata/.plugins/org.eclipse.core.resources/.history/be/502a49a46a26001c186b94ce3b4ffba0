@@ -48,5 +48,6 @@ public class LogIn {
 		WebDriverWait wait= new WebDriverWait(driver, 1000);
 		wait.until( d -> ((JavascriptExecutor) d).executeScript("return document.readyState").equals("complete"));
 	}
+	
 }
 
